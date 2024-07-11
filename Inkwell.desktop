@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=java -jar "/home/username_goes_here/Inkwell/Inkwell.jar"
+Name=Inkwell
+Icon=/home/username_goes_here/Inkwell/Inkwell.png
+Name[en_US]=Inkwell
